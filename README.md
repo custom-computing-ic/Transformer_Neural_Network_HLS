@@ -1,4 +1,18 @@
-# Reconfigurable Acceleration of Transformer Neural Networks with Meta-Programming Strategies for Particle Physics Experiments
+# Accelerating Transformer Neural Networks on FPGAs for High Energy Physics Experiments
+
+## Citation
+If you find the repository useful, please cite our paper:
+
+```{=latex}
+@inproceedings{wojcicki2022accelerating,
+  title={Accelerating Transformer Neural Networks on FPGAs for High Energy Physics Experiments},
+  author={Wojcicki, Filip and Que, Zhiqiang and Tapper, Alexander D and Luk, Wayne},
+  booktitle={2022 International Conference on Field-Programmable Technology (ICFPT)},
+  pages={1--8},
+  year={2022},
+  organization={IEEE}
+}
+```
 
 ## Available programs
 ### Explore a Pytorch architecture
